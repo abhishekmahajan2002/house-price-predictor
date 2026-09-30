@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/190944443489284856/caf2e0182ef74eaa978e2b7bbc267dfd/artifacts
+end_time: 1790340108671
+entry_point_name: ''
+experiment_id: '190944443489284856'
+lifecycle_stage: active
+run_id: caf2e0182ef74eaa978e2b7bbc267dfd
+run_name: final_training
+run_uuid: caf2e0182ef74eaa978e2b7bbc267dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790340105220
+status: 3
+tags: []
+user_id: amahajan4
